@@ -1,0 +1,44 @@
+
+*
+{
+    padding:0px;
+    margin:0px;
+}
+ul{
+    background-color:rgb(145, 238, 7);
+    list-style-type:none;
+   
+    height:50px;
+
+}
+li
+{
+    float:left;
+    font-size: large;
+    text-align: center;
+}
+.nani
+{
+    text-decoration:none;
+    padding: 10px;
+    color:white;
+   
+}
+a:hover
+{
+    background-color: black;
+    color:white;
+}
+div
+{
+    margin:20px;
+}
+table
+{
+    width:100%;
+    font-size: large;
+}
+td,th
+{
+    color:white;
+}
